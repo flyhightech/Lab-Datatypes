@@ -11,6 +11,7 @@ public class VariableDeclaration {
         short s = 16; 
         System.out.println(s);
         
+        // Below is an integer
         int i = -32; 
         System.out.println(i);
         
